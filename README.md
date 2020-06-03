@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # shoesshop
 
 A new Flutter application.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Shoes-Shop
+simple flutter UI Exercise for shoes shopping
+>>>>>>> 1308e613a7f653b021cb9b761492cb6599bed469
