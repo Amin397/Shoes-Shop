@@ -1,21 +1,11 @@
-<<<<<<< HEAD
-# shoesshop
 
 A new Flutter application.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # Shoes-Shop
 simple flutter UI Exercise for shoes shopping
->>>>>>> 1308e613a7f653b021cb9b761492cb6599bed469
+
+![Screenshot_1591190905](https://user-images.githubusercontent.com/51218670/83643166-f1f8aa00-a5c4-11ea-8cf9-a8af53f43037.png)
+
+
+![Screenshot_1591190918](https://user-images.githubusercontent.com/51218670/83643208-ffae2f80-a5c4-11ea-9680-ee0df4b8eb30.png)
+
